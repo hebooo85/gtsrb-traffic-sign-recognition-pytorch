@@ -31,3 +31,8 @@ This repository contains the final project for **INFO 6147 – Deep Learning wit
 - PyTorch, torchvision
 - NumPy, Matplotlib, Seaborn
 
+- ### Demo Video
+You can watch the full demo video here:
+[Click to Watch Demo](https://1drv.ms/v/c/a3bbb7d0adbdbbb2/EZ66GjVVSjpJkXyyvEsjN9gBVtmFTPwXi3ICOU6fWzfRpQ?e=efpjAc)
+
+
