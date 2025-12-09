@@ -31,12 +31,3 @@ This repository contains the final project for **INFO 6147 – Deep Learning wit
 - PyTorch, torchvision
 - NumPy, Matplotlib, Seaborn
 
-## How to run (short version)
-
-1. Open the notebook in Google Colab or Jupyter.
-2. Download the **GTSRB** dataset (balanced version) and update the dataset path if needed.
-3. Run all cells to:
-   - Prepare train/validation/test splits.
-   - Train the baseline CNN.
-   - Apply augmentation and regularization to train the final CNN.
-   - Evaluate on the test set and generate plots.
