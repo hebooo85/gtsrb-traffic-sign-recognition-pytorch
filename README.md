@@ -34,6 +34,6 @@ This repository contains the final project for **INFO 6147 – Deep Learning wit
 - ### Demo Video
   
 You can watch the full demo video here:
-[Click to Watch Demo](https://1drv.ms/v/c/a3bbb7d0adbdbbb2/EZ66GjVVSjpJkXyyvEsjN9gBVtmFTPwXi3ICOU6fWzfRpQ?e=efpjAc)
+[Click to Watch Demo]([https://1drv.ms/v/c/a3bbb7d0adbdbbb2/EZ66GjVVSjpJkXyyvEsjN9gBVtmFTPwXi3ICOU6fWzfRpQ?e=efpjAc](https://drive.google.com/file/d/1-bZ5zBWfg0SQuIZQS9q-vZ2Xy5FsPB1P/view?usp=drive_link))
 
 
